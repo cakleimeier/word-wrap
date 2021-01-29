@@ -8,4 +8,4 @@ It's built on Laravel and Vue. To demo the application:
 - **OR** view it served by Heroku [here](https://frozen-beach-73309.herokuapp.com/)
 
 The logic is in `/app/Http/Controllers/FormController.php`
-The Vue components are in `/resources/js/components/FormOutput.vue`
+The Vue components are in `/resources/js/components`
